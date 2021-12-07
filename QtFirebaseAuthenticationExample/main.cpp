@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 
     //Set your API Key here
     //crear app web en firebase
-    authHandler.setAPIKey("AIzaSyBX4lK4SKiDk43TVCI40qhKEVsmGmMhafU");
+    authHandler.setAPIKey("YOUR API KEY");
 
     //This is the call to sign a user up using Email/Password
     //CREAR USUARIO CON EMAIL Y CONTRASEÑA
